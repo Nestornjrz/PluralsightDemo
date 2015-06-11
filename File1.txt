@@ -1,3 +1,5 @@
 Inicial del Archivo 1 texto en master branch - cambios adicionales en el archivo 1
 
 Cambios adicionales al archivo 1
+
+Cambios enmendados
